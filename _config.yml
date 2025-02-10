@@ -1,12 +1,12 @@
 # Site
 name: "QuiPhan"
 title: "Personal Blog"
-description: "Shit posts vớ vẩn của thanh niên đam mê về kiến thức, produtivity và game."
+description: "Shit posts vớ vẩn của thanh niên đam mê về kiến thức, productivity và game. todo thêm câu truyền cảm hứng"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /myblog
 google_analytics: 'G-BWPNKP6PYY'
-disqus: 'todoRregister'
+disqus: 'todoRegister'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
