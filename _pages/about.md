@@ -20,26 +20,26 @@ comments: true
             </div>
 
             <div class="col-sm-4">
-                <div class="team-member text-center">
+                <div class="team-member text-center my-2 px-4">
                     <img src="assets/images/author.png" class="img-responsive img-circle rounded-circle mb-4" alt="">
                     <h4 class="m-2">Phan Văn Quí</h4>
                     <p class="text-muted m-1">Game Developer</p>
                     <ul class="list-inline social-buttons m-2 row justify-content-center">
                         
                         <li class="mx-3">
-                            <a href="">
+                            <a href="mailto:pvqui0910@gmail.com">
                                 <i class="fa-solid fa-envelope fa-xl"></i>
                             </a>
                         </li>
                         
                         <li class="mx-3">
-                            <a href="">
+                            <a href="https://www.facebook.com/quiphan0910/">
                                 <i class="fa-brands fa-square-facebook fa-xl"></i>
                             </a>
                         </li>
                         
                         <li class="mx-3">
-                            <a href="">
+                            <a href="https://www.linkedin.com/in/quiphan0910/">
                                 <i class="fa-brands fa-linkedin fa-xl"></i>
                             </a>
                         </li>
@@ -218,7 +218,7 @@ comments: true
                                     <h4 class="subheading">Game Developer (Unity)</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">Học được rất nhiều điều từ mobile game industry!</p>
                                 </div>
                             </div>
                         </li>
@@ -252,9 +252,10 @@ comments: true
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>To
-                                    <br>Be
-                                    <br>Continue!</h4>
+                                <h4>
+                                    <br>Present
+                                    <br>
+                                </h4>
                             </div>
                         </li>
                     </ul>
