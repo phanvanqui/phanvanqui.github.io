@@ -10,8 +10,8 @@ comments: true
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Người viết blog</h2>
-                <h3 class="section-subheading text-muted">"Cho đi để còn mãi".</h3>
+                <h2 class="section-heading">Tác giả</h2>
+                <h3 class="section-subheading text-muted"> </h3>
             </div>
         </div>
         <div class="row">
@@ -25,19 +25,19 @@ comments: true
                         
                         <li>
                             <a href="">
-                                <i class="fa fa-email"></i>
+                                <i class="fa-solid fa-envelope"></i>
                             </a>
                         </li>
                         
                         <li>
                             <a href="">
-                                <i class="fa fa-facebook"></i>
+                                <i class="fa-brands fa-facebook"></i>
                             </a>
                         </li>
                         
                         <li>
                             <a href="">
-                                <i class="fa fa-stack-overflow"></i>
+                                <i class="fa-brands fa-linkedin"></i>
                             </a>
                         </li>
                         
@@ -46,12 +46,6 @@ comments: true
                 </div>
             </div>       
             
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Hãy cùng kết nối đam mê :3.</p>
-                </div>
-            </div>
-
     </div>
 </div>
 </section>
@@ -97,8 +91,8 @@ comments: true
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Portfolio</h2>
-                    <h3 class="section-subheading text-muted">My products.</h3>
+                    <h2 class="section-heading">My products</h2>
+                    <h3 class="section-subheading text-muted"> </h3>
                 </div>
             </div>
             <div class="row">
@@ -201,8 +195,8 @@ comments: true
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Dòng thời gian</h2>
-                    <h3 class="section-subheading text-muted">Quá trình phát triển sự nghiệp.</h3>
+                    <h2 class="section-heading">Career timeline</h2>
+                    <h3 class="section-subheading text-muted"> </h3>
                 </div>
             </div>
             <div class="row">
