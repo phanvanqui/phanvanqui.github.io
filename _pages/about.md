@@ -21,7 +21,7 @@ comments: true
 
             <div class="col-sm-4">
                 <div class="team-member text-center">
-                    <img src="assets/images/author.jpg" class="img-responsive img-circle rounded-circle mb-4" alt="">
+                    <img src="assets/images/author.png" class="img-responsive img-circle rounded-circle mb-4" alt="">
                     <h4 class="m-2">Phan Văn Quí</h4>
                     <p class="text-muted m-1">Game Developer</p>
                     <ul class="list-inline social-buttons m-2 row justify-content-center">
@@ -269,8 +269,8 @@ comments: true
         <div class="modal-content">
         <div class="container">
             <div class="row">
-                <div class="">
-                    <div class="">
+                <div class="container">
+                    <div class="container">
                         <h2>Dreams</h2>
                         <hr class="star-primary">
                         <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="image-alt">
