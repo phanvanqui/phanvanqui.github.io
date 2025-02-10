@@ -104,24 +104,22 @@ comments: true
             <div class="row">
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-
-                        <img src="assets/images/1.jpg" class="img-responsive img-centered" alt=""> 
+                    <a href="#portfolioModal1" class="portfolio-link block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        </img>
+                        <img src="assets/images/1.jpg" class="img-responsive img-centered" alt=""> 
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="portfolio-caption text-center p-2">
                         <h4>Dreams</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
                 </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal2" class="portfolio-link block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -129,14 +127,14 @@ comments: true
                         </div>
                         <img src="assets/images/2.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="portfolio-caption text-center p-2"">
                         <h4>Escape</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
                 </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal3" class="portfolio-link block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -144,14 +142,14 @@ comments: true
                         </div>
                         <img src="assets/images/3.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="portfolio-caption text-center p-2"">
                         <h4>Golden</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
                 </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal4" class="portfolio-link block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -159,14 +157,14 @@ comments: true
                         </div>
                         <img src="assets/images/4.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="portfolio-caption text-center p-2"">
                         <h4>Treehouse</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
                 </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal6" class="portfolio-link block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -174,14 +172,14 @@ comments: true
                         </div>
                         <img src="assets/images/5.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="portfolio-caption text-center p-2"">
                         <h4>Round Icons</h4>
                         <p class="text-muted">Graphic Design</p>
                     </div>
                 </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal5" class="portfolio-link block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -189,7 +187,7 @@ comments: true
                         </div>
                         <img src="assets/images/6.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="portfolio-caption text-center p-2"">
                         <h4>Startup Framework</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
