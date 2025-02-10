@@ -104,7 +104,7 @@ comments: true
             <div class="row">
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link block" data-toggle="modal">
+                    <a href="#portfolioModal1" class="portfolio-link d-block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -119,7 +119,7 @@ comments: true
                 </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link block" data-toggle="modal">
+                    <a href="#portfolioModal2" class="portfolio-link d-block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -134,7 +134,7 @@ comments: true
                 </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link block" data-toggle="modal">
+                    <a href="#portfolioModal3" class="portfolio-link d-block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -149,7 +149,7 @@ comments: true
                 </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link block" data-toggle="modal">
+                    <a href="#portfolioModal4" class="portfolio-link d-block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -164,7 +164,7 @@ comments: true
                 </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link block" data-toggle="modal">
+                    <a href="#portfolioModal6" class="portfolio-link d-block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -179,7 +179,7 @@ comments: true
                 </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link block" data-toggle="modal">
+                    <a href="#portfolioModal5" class="portfolio-link d-block" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
