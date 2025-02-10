@@ -292,7 +292,7 @@ comments: true
                     <div class="modal-body">
                         <h2>Dreams</h2>
                         <hr class="star-primary">
-                        <img src="img/portfolio/dreams.png" class="img-responsive img-centered" alt="image-alt">
+                        <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="image-alt">
                         <p>Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.</p>
                         <ul class="list-inline item-details">
                             <li>Client:
@@ -330,7 +330,7 @@ comments: true
                     <div class="modal-body">
                         <h2>Escape</h2>
                         <hr class="star-primary">
-                        <img src="img/portfolio/escape.png" class="img-responsive img-centered" alt="image-alt">
+                        <img src="assets/images/2.jpg" class="img-responsive img-centered" alt="image-alt">
                         <p>Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.</p>
                         <ul class="list-inline item-details">
                             <li>Client:
