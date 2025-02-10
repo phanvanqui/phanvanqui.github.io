@@ -5,10 +5,6 @@ permalink: /about
 comments: true
 ---
 
-<h4>Tôi là ai?</h4>
-<p>Một game developer đam mê kiến thức, productivity và game.</p>
-
-
 <section id="team" class="bg-light-gray">
     <div class="container">
         <div class="row">
@@ -21,7 +17,7 @@ comments: true
             
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="assets/images/rounded pic.jpg"" class="img-responsive img-circle" alt="">
+                    <img src="assets/images/rounded pic.jpg" class="img-responsive img-circle" alt="">
                     <h4>Phan Văn Quí</h4>
                     <p class="text-muted">Game Developer</p>
                     <ul class="list-inline social-buttons">
