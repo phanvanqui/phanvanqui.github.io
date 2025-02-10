@@ -210,7 +210,7 @@ comments: true
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="assets/images/rounded pic.jpg" alt="">
+                                <img class="img-circle img-responsive rounded-circle" src="assets/images/rounded pic.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -224,7 +224,7 @@ comments: true
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="assets/images/rounded pic.jpg" alt="">
+                                <img class="img-circle img-responsive rounded-circle" src="assets/images/rounded pic.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -238,7 +238,7 @@ comments: true
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="assets/images/rounded pic.jpg" alt="">
+                                <img class="img-circle img-responsive rounded-circle" src="assets/images/rounded pic.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -246,13 +246,13 @@ comments: true
                                     <h4 class="subheading">Self Employee</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">Tự làm tự ăn</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="assets/images/rounded pic.jpg" alt="">
+                                <img class="img-circle img-responsive rounded-circle" src="assets/images/rounded pic.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
