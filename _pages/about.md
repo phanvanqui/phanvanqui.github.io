@@ -20,7 +20,7 @@ comments: true
             </div>
 
             <div class="col-sm-4">
-                <div class="team-member">
+                <div class="team-member text-center">
                     <img src="assets/images/rounded pic.jpg" class="img-responsive img-circle" alt="">
                     <h4>Phan Văn Quí</h4>
                     <p class="text-muted">Game Developer</p>
@@ -28,13 +28,15 @@ comments: true
                         
                         <li>
                             <a href="">
-                                <i class="fa-solid fa-envelope"></i>
+                                <i class="fa-solid fa-envelope fa-stack-1x fa-inverse"></i>
                             </a>
                         </li>
                         
                         <li>
                             <a href="">
                                 <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-brands fa-facebook"></i>
+                                <i class="fa fa-facebook"></i>
                             </a>
                         </li>
                         
