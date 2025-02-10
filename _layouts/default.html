@@ -80,11 +80,11 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="{{ site.baseurl }}/darkversion.html"><i class="fab fa-snapchat-ghost"></i> Dark Version</a>
+                <a style="display:none" target="_blank" class="nav-link" href="{{ site.baseurl }}/darkversion.html"><i class="fab fa-snapchat-ghost"></i> Dark Mode</a>
                 </li>
 
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="{{ site.baseurl }}/darkversion.html"><i class="fab fa-snapchat-language"></i> English</a>
+                <li style="display:none" class="nav-item">
+                <a target="_blank" class="nav-link" href="{{ site.baseurl }}/darkversion.html"><i class="fab fa-snapchat-language"></i> English Version</a>
                 </li>
 
                 {% include search-lunr.html %}
@@ -106,12 +106,7 @@ ga('send', 'pageview');
 
 <!-- Site Title
 ================================================== -->
-<div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
-    <p class="lead">
-        {{ site.description }}
-    </p>
-</div>
+
 
 <!-- Content
 ================================================== -->
