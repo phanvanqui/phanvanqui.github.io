@@ -61,7 +61,7 @@ comments: true
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Tôi là ai?</h2>
-                    <h3 class="section-subheading text-muted">Một thanh niên trầm tính nhưng có nhiều đam mê</h3>
+                    <h3 class="section-subheading text-muted">Một thanh niên khá trầm tính nhưng có nhiều đam mê</h3>
                 </div>
             </div>
             <div class="row text-center mt-4">
@@ -105,12 +105,14 @@ comments: true
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+
+                        <img src="assets/images/1.jpg" class="img-responsive img-centered" alt=""> 
                         <div class="portfolio-hover">
-                            <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
+                        </img>
                     </a>
                     <div class="portfolio-caption">
                         <h4>Dreams</h4>
