@@ -28,19 +28,19 @@ comments: true
                         
                         <li class="mx-3">
                             <a href="">
-                                <i class="fa fa-envelope"></i>
+                                <i class="fa-solid fa-envelope fa-xl"></i>
                             </a>
                         </li>
                         
                         <li class="mx-3">
                             <a href="">
-                                <i class="fa fa-facebook-square"></i>
+                                <i class="fa-brands fa-square-facebook fa-xl"></i>
                             </a>
                         </li>
                         
                         <li class="mx-3">
                             <a href="">
-                                <i class="fa fa-linkedin-square"></i>
+                                <i class="fa-brands fa-linkedin fa-xl"></i>
                             </a>
                         </li>
                         
