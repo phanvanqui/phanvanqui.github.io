@@ -127,7 +127,7 @@ comments: true
                         </div>
                         <img src="assets/images/2.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption text-center p-2"">
+                    <div class="portfolio-caption text-center p-2">
                         <h4>Escape</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
@@ -142,7 +142,7 @@ comments: true
                         </div>
                         <img src="assets/images/3.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption text-center p-2"">
+                    <div class="portfolio-caption text-center p-2">
                         <h4>Golden</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
@@ -157,7 +157,7 @@ comments: true
                         </div>
                         <img src="assets/images/4.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption text-center p-2"">
+                    <div class="portfolio-caption text-center p-2">
                         <h4>Treehouse</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
@@ -172,7 +172,7 @@ comments: true
                         </div>
                         <img src="assets/images/5.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption text-center p-2"">
+                    <div class="portfolio-caption text-center p-2">
                         <h4>Round Icons</h4>
                         <p class="text-muted">Graphic Design</p>
                     </div>
@@ -187,7 +187,7 @@ comments: true
                         </div>
                         <img src="assets/images/6.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="portfolio-caption text-center p-2"">
+                    <div class="portfolio-caption text-center p-2">
                         <h4>Startup Framework</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
