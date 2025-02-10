@@ -8,6 +8,10 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
+<h4>Tôi là ai?</h4>
+<p>Một game developer đam mê kiến thức, productivity và game.</p>
+
+
 <p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
