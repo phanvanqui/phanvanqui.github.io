@@ -16,7 +16,10 @@ comments: true
         </div>
         <div class="row">
             
-            <div class="col-sm-4 justify-content-center">
+            <div class="col-sm-4">
+            </div>
+
+            <div class="col-sm-4">
                 <div class="team-member">
                     <img src="assets/images/rounded pic.jpg" class="img-responsive img-circle" alt="">
                     <h4>Phan Văn Quí</h4>
@@ -31,7 +34,7 @@ comments: true
                         
                         <li>
                             <a href="">
-                                <i class="fa-brands fa-facebook"></i>
+                                <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
                             </a>
                         </li>
                         
@@ -44,7 +47,10 @@ comments: true
 
                     </ul>
                 </div>
-            </div>       
+            </div>
+            
+            <div class="col-sm-4">
+            </div>
             
     </div>
 </div>
