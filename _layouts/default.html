@@ -79,8 +79,8 @@ ga('send', 'pageview');
                 <a target="_blank" class="nav-link" href="{{ site.baseurl }}/dropdownlist.html">Site Map</a>
                 </li>
 
-                <li class="nav-item">
-                <a style="display:none" target="_blank" class="nav-link" href="{{ site.baseurl }}/darkversion.html"><i class="fab fa-snapchat-ghost"></i> Dark Mode</a>
+                <li style="display:none" class="nav-item">
+                <a target="_blank" class="nav-link" href="{{ site.baseurl }}/darkversion.html"><i class="fab fa-snapchat-ghost"></i> Dark Mode</a>
                 </li>
 
                 <li style="display:none" class="nav-item">
@@ -117,17 +117,7 @@ ga('send', 'pageview');
 {% if site.mailchimp-list %}
 <!-- Bottom Alert Bar
 ================================================== -->
-<div class="alertbar">
-	<div class="container text-center">
-		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
-        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
-            <div class="mc-field-group">
-            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Subscribe" name="subscribe" class="heart">
-            </div>
-        </form>
-	</div>
-</div>
+
 {% endif %}
     
 </div>
