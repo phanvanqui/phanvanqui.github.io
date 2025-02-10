@@ -21,7 +21,7 @@ comments: true
 
             <div class="col-sm-4">
                 <div class="team-member text-center">
-                    <img src="assets/images/rounded pic.jpg" class="img-responsive img-circle rounded-circle mb-4" alt="">
+                    <img src="assets/images/author.jpg" class="img-responsive img-circle rounded-circle mb-4" alt="">
                     <h4 class="m-2">Phan Văn Quí</h4>
                     <p class="text-muted m-1">Game Developer</p>
                     <ul class="list-inline social-buttons m-2 row justify-content-center">
@@ -113,8 +113,8 @@ comments: true
                         <img src="assets/images/1.jpg" class="img-responsive img-centered" alt=""> 
                     </a>
                     <div class="portfolio-caption text-center p-4">
-                        <h4 class="m-0">Dreams</h4>
-                        <p class="text-muted m-0">Website Design</p>
+                        <h4 class="m-0">TBD</h4>
+                        <p class="text-muted m-0">TBD</p>
                     </div>
                 </div>
             
@@ -128,8 +128,8 @@ comments: true
                         <img src="assets/images/2.jpg" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="portfolio-caption text-center p-4">
-                        <h4 class="m-0">Escape</h4>
-                        <p class="text-muted m-0">Website Design</p>
+                        <h4 class="m-0">TBD</h4>
+                        <p class="text-muted m-0">TBD</p>
                     </div>
                 </div>
             
@@ -143,8 +143,8 @@ comments: true
                         <img src="assets/images/3.jpg" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="portfolio-caption text-center p-4">
-                        <h4 class="m-0">Golden</h4>
-                        <p class="text-muted m-0">Website Design</p>
+                        <h4 class="m-0">TBD</h4>
+                        <p class="text-muted m-0">TBD</p>
                     </div>
                 </div>
             
@@ -158,8 +158,8 @@ comments: true
                         <img src="assets/images/4.jpg" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="portfolio-caption text-center p-4">
-                        <h4 class="m-0">Treehouse</h4>
-                        <p class="text-muted m-0">Website Design</p>
+                        <h4 class="m-0">TBD</h4>
+                        <p class="text-muted m-0">TBD</p>
                     </div>
                 </div>
             
@@ -173,8 +173,8 @@ comments: true
                         <img src="assets/images/5.jpg" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="portfolio-caption text-center p-4">
-                        <h4 class="m-0">Round Icons</h4>
-                        <p class="text-muted m-0">Graphic Design</p>
+                        <h4 class="m-0">TBD</h4>
+                        <p class="text-muted m-0">TBD</p>
                     </div>
                 </div>
             
@@ -188,8 +188,8 @@ comments: true
                         <img src="assets/images/6.jpg" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="portfolio-caption text-center p-4">
-                        <h4 class="m-0">Startup Framework</h4>
-                        <p class="text-muted m-0">Website Design</p>
+                        <h4 class="m-0">TBD</h4>
+                        <p class="text-muted m-0">TBD</p>
                     </div>
                 </div>
             
@@ -210,7 +210,7 @@ comments: true
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive rounded-circle" src="assets/images/rounded pic.jpg" alt="">
+                                <img class="img-circle img-responsive rounded-circle" src="assets/images/congty.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -224,7 +224,7 @@ comments: true
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive rounded-circle" src="assets/images/rounded pic.jpg" alt="">
+                                <img class="img-circle img-responsive rounded-circle" src="assets/images/haiquan.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -238,7 +238,7 @@ comments: true
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive rounded-circle" src="assets/images/rounded pic.jpg" alt="">
+                                <img class="img-circle img-responsive rounded-circle" src="assets/images/canhan.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -247,20 +247,6 @@ comments: true
                                 </div>
                                 <div class="timeline-body">
                                     <p class="text-muted">Tự làm tự ăn</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive rounded-circle" src="assets/images/rounded pic.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
                                 </div>
                             </div>
                         </li>
@@ -279,12 +265,12 @@ comments: true
 
 
 <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog" role="document">
+    <div class="modal-dialog modal-dialog-centered  modal-lg" role="document">
         <div class="modal-content">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
+                <div class="">
+                    <div class="">
                         <h2>Dreams</h2>
                         <hr class="star-primary">
                         <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="image-alt">
@@ -312,170 +298,3 @@ comments: true
     </div>
 </div>
 
-<div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Dreams</h2>
-                        <hr class="star-primary">
-                        <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="image-alt">
-                        <p>Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-    </div>
-</div>
-
-<div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content" role="document">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Dreams</h2>
-                        <hr class="star-primary">
-                        <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="image-alt">
-                        <p>Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-            </div>
-        </div>
-        </div>
-    </div>
-</div>
-
-<div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Dreams</h2>
-                        <hr class="star-primary">
-                        <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="image-alt">
-                        <p>Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-    </div>
-</div>
-
-<div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Dreams</h2>
-                        <hr class="star-primary">
-                        <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="image-alt">
-                        <p>Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-    </div>
-</div>
-
-<div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Dreams</h2>
-                        <hr class="star-primary">
-                        <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="image-alt">
-                        <p>Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.</p>
-                        <ul class="list-inline item-details">
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                </strong>
-                            </li>
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">April 2014</a>
-                                </strong>
-                            </li>
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">Web Development</a>
-                                </strong>
-                            </li>
-                        </ul>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-    </div>
-</div>
