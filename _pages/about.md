@@ -28,15 +28,13 @@ comments: true
                         
                         <li>
                             <a href="">
-                                <i class="fa-solid fa-envelope fa-stack-1x fa-inverse"></i>
+                                <i class="fa-solid fa-envelope fa-lg"></i>
                             </a>
                         </li>
                         
                         <li>
                             <a href="">
-                                <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                                <i class="fa fa-brands fa-facebook"></i>
-                                <i class="fa fa-facebook"></i>
+                                <i class="fa-brands fa-square-facebook"></i>
                             </a>
                         </li>
                         
