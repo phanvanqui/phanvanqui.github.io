@@ -68,10 +68,10 @@ comments: true
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-shopping-book fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-book fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading m-2">Ham học hỏi</h4>
-                    <p class="text-muted">Thích đọc sách và yêu thích kiến thức khoa học.</p>
+                    <p class="text-muted">Thích đọc sách và yêu thích các nội dung kiến thức khoa học (khoa học tự nhiên + khoa học xã hội).</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -106,11 +106,11 @@ comments: true
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
+                            <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="">
                             <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                                <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="assets/images/1.jpg" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Dreams</h4>
@@ -122,7 +122,7 @@ comments: true
                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                                <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
                         <img src="assets/images/2.jpg" class="img-responsive img-centered" alt="">
@@ -137,7 +137,7 @@ comments: true
                     <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                                <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
                         <img src="assets/images/3.jpg" class="img-responsive img-centered" alt="">
@@ -152,7 +152,7 @@ comments: true
                     <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                                <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
                         <img src="assets/images/4.jpg" class="img-responsive img-centered" alt="">
@@ -167,7 +167,7 @@ comments: true
                     <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                                <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
                         <img src="assets/images/5.jpg" class="img-responsive img-centered" alt="">
@@ -182,7 +182,7 @@ comments: true
                     <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                                <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
                         <img src="assets/images/6.jpg" class="img-responsive img-centered" alt="">
