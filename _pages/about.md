@@ -5,6 +5,9 @@ permalink: /about
 comments: true
 ---
 
+<div class="container">
+
+
 <section id="team" class="bg-light-gray">
     <div class="container">
         <div class="row">
@@ -277,4 +280,4 @@ comments: true
 
 
 
-    
+</div>
