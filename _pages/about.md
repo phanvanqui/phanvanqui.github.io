@@ -5,8 +5,6 @@ permalink: /about
 comments: true
 ---
 
-<div class="container">
-
 
 <section id="team" class="bg-light-gray">
     <div class="container">
@@ -18,7 +16,7 @@ comments: true
         </div>
         <div class="row">
             
-            <div class="col-sm-4">
+            <div class="col-sm-4 justify-content-center">
                 <div class="team-member">
                     <img src="assets/images/rounded pic.jpg" class="img-responsive img-circle" alt="">
                     <h4>Phan Văn Quí</h4>
@@ -55,6 +53,7 @@ comments: true
             </div>
 
     </div>
+</div>
 </section>
 
 <section id="services">
@@ -278,6 +277,3 @@ comments: true
         </div>
 </section>
 
-
-
-</div>
