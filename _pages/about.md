@@ -316,14 +316,10 @@ comments: true
     </div>
 </div>
 
-<div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
+<div class="modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
@@ -355,6 +351,7 @@ comments: true
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </div>
 
