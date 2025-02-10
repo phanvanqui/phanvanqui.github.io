@@ -903,25 +903,4 @@ iframe {
 
 
 
-.team-member img {
-    margin: 0px auto;
-    border-width: 7px;
-    border-style: solid;
-    border-color: rgb(255, 255, 255);
-    border-image: initial;
-}
-
-.img-circle {
-    border-radius: 50%;
-}
-
-
-.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-}
-
-
-
 

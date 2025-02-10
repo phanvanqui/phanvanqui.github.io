@@ -21,26 +21,26 @@ comments: true
 
             <div class="col-sm-4">
                 <div class="team-member text-center">
-                    <img src="assets/images/rounded pic.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Phan Văn Quí</h4>
-                    <p class="text-muted">Game Developer</p>
-                    <ul class="list-inline social-buttons">
+                    <img src="assets/images/rounded pic.jpg" class="img-responsive img-circle rounded mb-4" alt="">
+                    <h4 class="m-2">Phan Văn Quí</h4>
+                    <p class="text-muted m-2">Game Developer</p>
+                    <ul class="list-inline social-buttons m-2 row justify-content-center">
                         
-                        <li>
+                        <li class="mx-3">
                             <a href="">
-                                <i class="fa-solid fa-envelope fa-lg"></i>
+                                <i class="fa-solid fa-envelope fa-xl"></i>
                             </a>
                         </li>
                         
-                        <li>
+                        <li class="mx-3">
                             <a href="">
-                                <i class="fa-brands fa-square-facebook"></i>
+                                <i class="fa-brands fa-square-facebook fa-xl"></i>
                             </a>
                         </li>
                         
-                        <li>
+                        <li class="mx-3">
                             <a href="">
-                                <i class="fa-brands fa-linkedin"></i>
+                                <i class="fa-brands fa-linkedin fa-xl"></i>
                             </a>
                         </li>
                         
@@ -64,13 +64,13 @@ comments: true
                     <h3 class="section-subheading text-muted">Một thanh niên trầm tính nhưng có nhiều đam mê</h3>
                 </div>
             </div>
-            <div class="row text-center">
+            <div class="row text-center mt-4">
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Ham học hỏi</h4>
+                    <h4 class="service-heading m-2">Ham học hỏi</h4>
                     <p class="text-muted">Thích đọc sách và yêu thích kiến thức khoa học.</p>
                 </div>
                 <div class="col-md-4">
@@ -78,7 +78,7 @@ comments: true
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Nghiện productivity</h4>
+                    <h4 class="service-heading m-2">Nghiện productivity</h4>
                     <p class="text-muted">Bị ám ảnh bởi năng suất trong công việc, luôn  tìm cách cải thiện chất lượng công việc.</p>
                 </div>
                 <div class="col-md-4">
@@ -86,7 +86,7 @@ comments: true
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Thích chơi game</h4>
+                    <h4 class="service-heading m-2">Thích chơi game</h4>
                     <p class="text-muted">Có niềm đam mê lớn lao với video game, đặc biệt là các thể loại cần suy nghĩ nhiều.</p>
                 </div>
             </div>
