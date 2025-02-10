@@ -21,9 +21,9 @@ comments: true
 
             <div class="col-sm-4">
                 <div class="team-member text-center">
-                    <img src="assets/images/rounded pic.jpg" class="img-responsive img-circle rounded mb-4" alt="">
+                    <img src="assets/images/rounded pic.jpg" class="img-responsive img-circle rounded-circle mb-4" alt="">
                     <h4 class="m-2">Phan Văn Quí</h4>
-                    <p class="text-muted m-2">Game Developer</p>
+                    <p class="text-muted m-1">Game Developer</p>
                     <ul class="list-inline social-buttons m-2 row justify-content-center">
                         
                         <li class="mx-3">
@@ -56,7 +56,7 @@ comments: true
 </div>
 </section>
 
-<section id="services">
+<section class="mt-5" id="services">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -68,7 +68,7 @@ comments: true
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-shopping-book fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading m-2">Ham học hỏi</h4>
                     <p class="text-muted">Thích đọc sách và yêu thích kiến thức khoa học.</p>
@@ -76,15 +76,15 @@ comments: true
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-lightbulb-o fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading m-2">Nghiện productivity</h4>
-                    <p class="text-muted">Bị ám ảnh bởi năng suất trong công việc, luôn  tìm cách cải thiện chất lượng công việc.</p>
+                    <h4 class="service-heading m-2">Nghiện năng suất</h4>
+                    <p class="text-muted">Bị ám ảnh bởi năng suất làm việc, luôn  tìm cách tối ưu chất lượng công việc.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-gamepad fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading m-2">Thích chơi game</h4>
                     <p class="text-muted">Có niềm đam mê lớn lao với video game, đặc biệt là các thể loại cần suy nghĩ nhiều.</p>
@@ -93,7 +93,7 @@ comments: true
         </div>
 </section>
 
-<section id="portfolio" class="bg-light-gray">
+<section id="portfolio" class="bg-light-gray mt-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -197,7 +197,7 @@ comments: true
         </div>
 </section>
 
-<section id="about">
+<section class="mt-5" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
