@@ -1,8 +1,8 @@
 ---
 layout: page
-title:
+title: "Tác giả"
 permalink: /about
-comments: true
+comments: false
 ---
 
 

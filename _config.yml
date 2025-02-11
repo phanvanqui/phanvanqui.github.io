@@ -2,6 +2,7 @@
 name: "QuiPhan"
 title: "Personal Blog"
 description: "Cuộc sống là không ngừng bỏ cuộc. (và bắt đầu lại)"
+#description: "Ở đây các bạn có thể tìm được các chủ đề về kiến thức và tối ưu"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /myblog
