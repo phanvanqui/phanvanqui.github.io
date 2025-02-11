@@ -1,0 +1,22 @@
+---
+layout: default
+title: Archive
+---
+
+<!-- Begin List Posts
+================================================== -->
+<section class="recent-posts">
+<div class="section-title">
+    <h2>Sitemap</h2>
+</div>
+<div class="row listrecent">
+
+    {% for post in site.posts %}
+
+    <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a>
+    <a> </a>
+
+    {% endfor %}
+
+</div>
+</section>
