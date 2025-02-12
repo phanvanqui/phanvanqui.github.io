@@ -5,7 +5,7 @@ description: "Cuộc sống là không ngừng bỏ cuộc. (và bắt đầu l�
 #description: "Ở đây các bạn có thể tìm được các chủ đề về kiến thức và tối ưu"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /myblog
+baseurl: 
 google_analytics: 'G-BWPNKP6PYY'
 disqus: ''
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
