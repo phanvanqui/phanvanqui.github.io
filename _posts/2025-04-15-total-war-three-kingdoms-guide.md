@@ -27,26 +27,26 @@ The district has an advantage in agriculture, so we only upgrade it to level 5 a
 
 ![City5]({{ site.baseurl }}/assets/images/3k1.jpg)
 
-Districts with advantages in commerce and industry can be upgraded to level 8 to obtain 5 building slots.
+Districts with advantages in commerce and industry can be upgraded to level 8 to obtain 6 building slots.
 - Focus on building income-generating and income-supporting buildings.
 - Reserve 1 slot to build an outpost to ensure public order does not drop below zero and have garrison troops to prevent rebellions.
 - Can optionally build a court when necessary
 
 ![City8]({{ site.baseurl }}/assets/images/3k2.jpg)
 
-No matter which district it is, first try to build a population development house to benefit from troop recovery and income bonus, then we can replace it later.
-Priority should be given to appointing governor to generals who have 6 units of soldiers in fortresses that are likely to be attacked to increase defense capability; the governors will not incur upkeep costs.
+##### No matter which district it is, first try to build a population development house to benefit from troop recovery and income bonus, then we can replace it later.
+##### Priority should be given to appointing governor to generals who have 6 units of soldiers in fortresses that are likely to be attacked to increase defense capability; the governors will not incur upkeep costs.
 
 ![governor]({{ site.baseurl }}/assets/images/3k3.jpg)
 
 #### II. Military
 There are 5 types of generals corresponding to different abilities and roles in the army.
-- The commander of the army should be a green or red general to gain many accompanying effects when being the leader (increased recovery, marching range, etc.).
+- The commander of the army should be a green or red general to gain many accompanying effects when being the commander (increased recovery, marching range, etc.).
 The type of weapon used by the general also affects their combat efficiency; generals wielding long weapons (Glaives, Spears, great hammers, great axes, etc.) will eliminate soldiers faster than those wielding short weapons (single swords, double swords, single axes, double axes, halberds, etc.). Red, green, and purple generals are usually the ones capable of wielding long weapons:
 - The red general is suitable for raids, so they should ride a horse with high mass to increase charge effectiveness.
 - The green general has high armor, health and skills suitable for fighting soldiers.
-- Blue generals with high evasion prioritize weapons with high damage and speed for duels, or choose long-range weapons to support killing soldiers.
-- Yellow champions and those with weak combat abilities are usually placed at the back to provide support when necessary.
+- Purple generals with high evasion prioritize weapons with high damage and speed for duels, or choose long-range weapons to support killing soldiers.
+- Yellow and blue champions with weak combat abilities are usually placed at the back to provide support when necessary.
 
 ![champion]({{ site.baseurl }}/assets/images/3k4.jpg)
 
