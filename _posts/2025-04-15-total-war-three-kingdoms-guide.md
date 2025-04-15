@@ -34,8 +34,8 @@ Districts with advantages in commerce and industry can be upgraded to level 8 to
 
 ![City8]({{ site.baseurl }}/assets/images/3k2.jpg)
 
-##### No matter which district it is, first try to build a population development house to benefit from troop recovery and income bonus, then we can replace it later.
-##### Priority should be given to appointing governor to generals who have 6 units of soldiers in fortresses that are likely to be attacked to increase defense capability; the governors will not incur upkeep costs.
+No matter which district it is, first try to build a population development house to benefit from troop recovery and income bonus, then we can replace it later.\
+Priority should be given to appointing governor to generals who have 6 units of soldiers in fortresses that are likely to be attacked to increase defense capability; the governors will not incur upkeep costs.
 
 ![governor]({{ site.baseurl }}/assets/images/3k3.jpg)
 
